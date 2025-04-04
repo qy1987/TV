@@ -159,6 +159,8 @@ https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=80f4ef591743738410
 http://107.174.52.32/itv.php?id=甘肃卫视
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 https://hls.gstv.com.cn/skt649/w0w7k2.m3u8
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="北京频道",北京卫视4K
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1743556293&sign=5a68640d9706048197829b8a4ab23577
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="北京频道",北京卫视
 http://49.232.152.29:6659/2025/bjsj.php?id=bjws
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="北京频道",北京卫视
@@ -193,5 +195,5 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=174
 http://49.232.152.29:6659/2025/bjsj.php?id=bjkk
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1743728409&sign=9974282c8ac334aa1442c55890b99a4a
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-04 13:18:38
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-04 13:40:57
 http://107.174.52.32/itv.php?id=CCTV1
