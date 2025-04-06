@@ -108,4 +108,18 @@ CCTV15,http://183.203.182.117:9616/hls/15/index.m3u8
 青海卫视,http://183.203.182.117:9616/hls/33/index.m3u8
 宁夏卫视,http://183.203.182.117:9616/hls/34/index.m3u8
 内蒙古卫视,http://183.203.182.117:9616/hls/21/index.m3u8
+北京高清,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1743640859&sign=7775d2f9c132004305279005a1333bd3
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1743640946&sign=cf5b9bf2bcf00f7ca27e623d5288417a
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1743640969&sign=8434ee8956be88ac099f6db1101dc9fb
+卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1743640999&sign=a3583c856e589cf701e91a89caa94058
+江苏卫视,http://nctv.top/IDOEPpiryt/jstv5.php?id=jsws
+河南卫视,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
+江苏卫视,http://nctv.top/IDOEPpiryt/jstv.php?id=jsws
+安徽卫视,https://qsxw.gov.cn/rtmp_export/video11.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+海南卫视,https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
+云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8#https://hwapi.yntv.cn/62hdvf/nqyn7w.m3u8
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578#http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030#https://stream.qhbtv.com/qhws/playlist.m3u8?_upt=21b410cb1741616121
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
