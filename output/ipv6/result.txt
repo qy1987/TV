@@ -179,6 +179,7 @@ CCTV16,http://183.184.228.183:9003//hls/17/index.m3u8
 CCTV16,http://123.123.74.59:9003//hls/27/index.m3u8
 CCTV16,http://nas.suntao.online:35455/gaoma/cctv16.m3u8
 CCTV16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=d7661d&tk=822270345d4c
+CCTV16,http://58.221.214.82:9901/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://49.232.152.29:6659/2025/itv.php?id=CCTV17
 CCTV17,http://107.174.52.32/itv.php?id=CCTV17
 CCTV17,http://112.81.218.254:35455/gaoma/cctv17.m3u8
@@ -194,7 +195,7 @@ CCTV4K超高清,http://119.96.210.21/jsctcc-tvod.ks-cdn.gitv.tv/gitv_live/G_CCTV
 卫视频道,#genre#
 北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1743556293&sign=5a68640d9706048197829b8a4ab23577
 北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1743245208&sign=fdbb62ef4425a678cf010e53bd553d61
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 浙江卫视,http://183.203.182.117:9616/hls/31/index.m3u8
@@ -575,4 +576,4 @@ CCTV4K超高清,http://119.96.210.21/jsctcc-tvod.ks-cdn.gitv.tv/gitv_live/G_CCTV
 国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=d64a5c09a3d2ecd3d49b2373fecf9e14&wsTime=1744002025
 
 🕘️更新时间,#genre#
-2025-04-10 05:37:44,http://183.203.182.117:9616/hls/1/index.m3u8
+2025-04-10 06:17:32,http://183.203.182.117:9616/hls/1/index.m3u8
