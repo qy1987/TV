@@ -24,22 +24,31 @@
 北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1745089211&sign=445f565f68e40c7d70c746cd822e91d0
 
 浙江频道,#genre#
+浙江新闻,http://120.55.49.231:3095/rtp/233.50.201.137:5140
+浙江新闻,http://101.66.198.150:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江新闻,http://101.66.198.68:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江新闻,http://101.66.194.67:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江新闻,http://101.66.198.202:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江新闻,http://101.66.198.150:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江新闻,http://api3.52tb.xyz/info?id=434&token=20221127jxwhhemby
+浙江少儿,http://120.55.49.231:3095/rtp/233.50.201.138:5140
+之江纪录,http://120.55.49.231:3095/rtp/233.50.202.25:5140
+浙江民生,http://120.55.49.231:3095/rtp/233.50.201.136:5140
+浙江经济,http://120.55.49.231:3095/rtp/233.50.201.133:5140
+浙江钱江,http://120.55.49.231:3095/rtp/233.50.201.132:5140
 浙江钱江,http://api3.52tb.xyz/info?id=436&token=20230226bgyszp
 浙江经视,http://api3.52tb.xyz/info?id=437&token=20230226bgyszp
+杭州生活,http://120.55.49.231:3095/rtp/233.50.201.175:5140
+杭州影视,http://120.55.49.231:3095/rtp/233.50.201.176:5140
+杭州影视,http://101.66.198.150:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 杭州影视,http://101.66.198.68:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 杭州影视,http://101.66.194.67:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 杭州影视,http://101.66.198.202:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州影视,http://101.66.198.150:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 象山新闻综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 余姚姚江文化,http://play-sh13.quklive.com/live/1710811686937131.m3u8?auth_key=2028282594-ceb07e15661942559ea8ac277ee5a4ce-0-d23d5d4932a0bcfe0cb2a109d7234f5d
 苍南新闻综合,http://play-sh13.quklive.com/live/1690277040164280.m3u8?auth_key=2027427807-aac534e581ff4046a80e768f73035764-0-9c9789c91d16152ee9a8b6cc28a3c8d2
 嵊州新闻综合,rtmp://play-sh11.quklive.com/live/1626935015913208
 嵊州新闻综合,https://play-sh11.quklive.com/live/1626935015913208.m3u8
+义乌商贸,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_2133.m3u8?auth_key=4830674369-0-0-792c50b6dbb1f212177ee413838c9d34&extra_key=MhCFdbXNI70ZdkebtW5Way43jpzFEOtNAkun-0XCgWwdfGQyDYjGaLOvaQkG4p4ahsRmKWH3euwpK_-6AzTj-NsrVKt9WX6WKnoTmOLcKhXuM68iO_FXB63j8Avfm_P7SLv_nrzGAup7gYxtTu4IpKilWBeWfflJTVwXfos8VFTWL_xtZEURqWRFF3AtLaqe&ali_ffmpeg_version=mpengine
 武义新闻综合,http://play-sh13.quklive.com/live/1707437639053211.m3u8?auth_key=1731133496-75c2111dcfa24d5bbe361c3fe29f3af0-0-d63430eb10ad6fb674b6c171db40e332#http://play-sh13.quklive.com/live/1707437639053211.m3u8?auth_key=2039926222-0c20643324d74ab6bca329f2864d9615-0-ad7dc9def9f83b2cc7693a23f6d91251#http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 磐安新闻综合,http://play-sh13.quklive.com/live/1722331404917192.m3u8?auth_key=1731133202-35d439ac4a8a47b08bbddd76893e46e8-0-6bf56ca7c9c32a3bac675774acdb8768
 龙游新闻综合,http://play-sh13.quklive.com/live/1703570877483349.m3u8?auth_key=2027429960-ec040acfac1e470189be19709432f77c-0-eb588b9f095452543de44ed271de22ae
@@ -59,18 +68,18 @@
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 
 江苏频道,#genre#
-江苏综艺,http://58.221.214.82:9901/tsfile/live/0005_2.m3u8
 江苏综艺,http://58.220.219.14:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0
+江苏综艺,http://58.221.214.82:9901/tsfile/live/0005_2.m3u8
 江苏体育休闲,http://58.221.214.82:9901/tsfile/live/0006_2.m3u8
 江苏公共新闻,http://58.221.214.82:9901/tsfile/live/0009_2.m3u8
 江苏影视,https://cntv.dfkj.live/jstv.php?id=jsys
-江苏影视,http://58.221.214.82:9901/tsfile/live/0007_2.m3u8
 江苏影视,http://221.226.215.162:352/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏城市,http://58.221.214.82:9901/tsfile/live/0004_2.m3u8
-江苏城市,http://58.213.65.146:352/tsfile/live/0120_3.m3u8?key=txiptv
+江苏影视,http://58.221.214.82:9901/tsfile/live/0007_2.m3u8
 江苏城市,http://221.226.215.162:352/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
+江苏城市,http://58.213.65.146:352/tsfile/live/0120_3.m3u8?key=txiptv
 江苏城市,http://58.210.168.86:10800/newlive/live/hls/52/live.m3u8
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
+江苏城市,http://58.221.214.82:9901/tsfile/live/0004_2.m3u8
 江苏教育台,http://58.221.214.82:9901/tsfile/live/0012_2.m3u8?key=txiptv
 南京少儿,http://221.226.51.220:50080/newlive/live/hls/46/live.m3u8
 苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
@@ -83,4 +92,4 @@
 扬州邗江,http://live.xmcdn.com/live/2539/64.m3u8
 
 🕘️更新时间,#genre#
-2025-04-20 04:12:01,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+2025-04-20 04:37:35,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
