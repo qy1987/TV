@@ -38,21 +38,43 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=174
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卡酷少儿.png" group-title="北京频道",北京卡酷少儿
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1745100140&sign=6a504918c3216dd2e2e47835b6968287
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
+http://101.66.198.202:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
+http://120.55.49.231:3095/rtp/233.50.201.137:5140
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
 http://101.66.198.150:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
-http://101.66.198.202:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+http://101.66.194.67:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
 http://101.66.198.68:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
-http://101.66.194.67:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州影视.png" group-title="浙江频道",杭州影视
-http://101.66.198.150:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+http://api3.52tb.xyz/info?id=434&token=20221127jxwhhemby
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="浙江频道",浙江少儿
+http://120.55.49.231:3095/rtp/233.50.201.138:5140
+#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/之江纪录.png" group-title="浙江频道",之江纪录
+http://120.55.49.231:3095/rtp/233.50.202.25:5140
+#EXTINF:-1 tvg-name="浙江民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江民生.png" group-title="浙江频道",浙江民生
+http://120.55.49.231:3095/rtp/233.50.201.136:5140
+#EXTINF:-1 tvg-name="浙江经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江经济.png" group-title="浙江频道",浙江经济
+http://120.55.49.231:3095/rtp/233.50.201.133:5140
+#EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江钱江.png" group-title="浙江频道",浙江钱江
+http://120.55.49.231:3095/rtp/233.50.201.132:5140
+#EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江钱江.png" group-title="浙江频道",浙江钱江
+http://api3.52tb.xyz/info?id=436&token=20230226bgyszp
+#EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江经视.png" group-title="浙江频道",浙江经视
+http://api3.52tb.xyz/info?id=437&token=20230226bgyszp
+#EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州生活.png" group-title="浙江频道",杭州生活
+http://120.55.49.231:3095/rtp/233.50.201.175:5140
 #EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州影视.png" group-title="浙江频道",杭州影视
 http://101.66.198.202:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州影视.png" group-title="浙江频道",杭州影视
-http://101.66.198.68:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+http://120.55.49.231:3095/rtp/233.50.201.176:5140
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州影视.png" group-title="浙江频道",杭州影视
+http://101.66.198.150:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州影视.png" group-title="浙江频道",杭州影视
 http://101.66.194.67:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州影视.png" group-title="浙江频道",杭州影视
+http://101.66.198.68:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="象山新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/象山新闻综合.png" group-title="浙江频道",象山新闻综合
 http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 #EXTINF:-1 tvg-name="余姚姚江文化" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/余姚姚江文化.png" group-title="浙江频道",余姚姚江文化
@@ -105,12 +127,18 @@ http://58.221.214.82:9901/tsfile/live/0009_2.m3u8
 https://cntv.dfkj.live/jstv.php?id=jsys
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏影视.png" group-title="江苏频道",江苏影视
 http://58.221.214.82:9901/tsfile/live/0007_2.m3u8
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏影视.png" group-title="江苏频道",江苏影视
+http://221.226.215.162:352/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏城市.png" group-title="江苏频道",江苏城市
 http://58.221.214.82:9901/tsfile/live/0004_2.m3u8
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏城市.png" group-title="江苏频道",江苏城市
 http://58.210.168.86:10800/newlive/live/hls/52/live.m3u8
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏城市.png" group-title="江苏频道",江苏城市
+http://58.213.65.146:352/tsfile/live/0120_3.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏城市.png" group-title="江苏频道",江苏城市
 http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏城市.png" group-title="江苏频道",江苏城市
+http://221.226.215.162:352/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="江苏教育台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏教育台.png" group-title="江苏频道",江苏教育台
 http://58.221.214.82:9901/tsfile/live/0012_2.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南京少儿.png" group-title="江苏频道",南京少儿
@@ -147,5 +175,5 @@ rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
 https://live1yc.0515yc.cn/ycst03/sd/live.m3u8?_upt=063361c91707142304
 #EXTINF:-1 tvg-name="扬州邗江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/扬州邗江.png" group-title="江苏频道",扬州邗江
 http://live.xmcdn.com/live/2539/64.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-20 06:09:52
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-20 06:39:13
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
