@@ -9,7 +9,6 @@
 青海卫视,https://stream.qhbtv.com/qhws/playlist.m3u8?_upt=1b443fe51745038818
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/x1sqkR0.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-grCN46.m3u8
-新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1745038802-3-3-27db80c8a733e8816a03649fc0d6b839&aliyun_uuid=f6cdca3f-4145-4bc9-9eeb-60c0adae59a1
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=b081ea2f1745045213
 
@@ -24,11 +23,11 @@
 北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1745035211&sign=2223b144c77433521bfb43a9811a7d1c
 
 浙江频道,#genre#
-浙江新闻,http://101.66.194.67:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江新闻,http://120.55.49.231:3095/rtp/233.50.201.137:5140
-浙江新闻,http://101.66.198.68:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江新闻,http://101.66.198.202:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江新闻,http://101.66.198.150:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江新闻,http://101.66.198.68:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江新闻,http://101.66.194.67:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江新闻,http://api3.52tb.xyz/info?id=434&token=20221127jxwhhemby
 浙江少儿,http://120.55.49.231:3095/rtp/233.50.201.138:5140
 之江纪录,http://120.55.49.231:3095/rtp/233.50.202.25:5140
@@ -38,11 +37,11 @@
 浙江钱江,http://api3.52tb.xyz/info?id=436&token=20230226bgyszp
 浙江经视,http://api3.52tb.xyz/info?id=437&token=20230226bgyszp
 杭州生活,http://120.55.49.231:3095/rtp/233.50.201.175:5140
-杭州影视,http://101.66.194.67:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 杭州影视,http://120.55.49.231:3095/rtp/233.50.201.176:5140
-杭州影视,http://101.66.198.68:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 杭州影视,http://101.66.198.202:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 杭州影视,http://101.66.198.150:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州影视,http://101.66.198.68:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州影视,http://101.66.194.67:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 象山新闻综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 余姚姚江文化,http://play-sh13.quklive.com/live/1710811686937131.m3u8?auth_key=2028282594-ceb07e15661942559ea8ac277ee5a4ce-0-d23d5d4932a0bcfe0cb2a109d7234f5d
 苍南新闻综合,http://play-sh13.quklive.com/live/1690277040164280.m3u8?auth_key=2027427807-aac534e581ff4046a80e768f73035764-0-9c9789c91d16152ee9a8b6cc28a3c8d2
@@ -75,9 +74,9 @@
 江苏影视,http://221.226.215.162:352/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏影视,http://58.221.214.82:9901/tsfile/live/0007_2.m3u8
 江苏城市,http://221.226.215.162:352/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
-江苏城市,http://58.213.65.146:352/tsfile/live/0120_3.m3u8?key=txiptv
-江苏城市,http://58.210.168.86:10800/newlive/live/hls/52/live.m3u8
 江苏城市,http://58.221.214.82:9901/tsfile/live/0004_2.m3u8
+江苏城市,http://58.210.168.86:10800/newlive/live/hls/52/live.m3u8
+江苏城市,http://58.213.65.146:352/tsfile/live/0120_3.m3u8?key=txiptv
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
 江苏教育台,http://58.221.214.82:9901/tsfile/live/0012_2.m3u8?key=txiptv
 南京少儿,http://221.226.51.220:50080/newlive/live/hls/46/live.m3u8
@@ -91,4 +90,4 @@
 扬州邗江,http://live.xmcdn.com/live/2539/64.m3u8
 
 🕘️更新时间,#genre#
-2025-04-19 12:12:38,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+2025-04-19 12:41:42,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
