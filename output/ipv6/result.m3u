@@ -6,13 +6,11 @@ http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视秒播",浙江卫视
 http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视秒播",浙江卫视
-https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1745845266-2ood95gpjmtdi8peer1ixew5cdgdnbtc-0-da9b10f5be7846957e94023a64e04dcf
+https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1745848828-f5eg1bv5vxsw8e3zsld04m1dwmm2a8x7-0-7b730f22d4ef285ccb7ba07b8aa0d9db
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视秒播",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1745852458&k=91317d0db8f8ab197963065971a581d0
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1745856022&k=77b350bda807bab070d3a29b272e86c0
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视秒播",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f69ab9782cddd06583ef30cd8c1d731b&wsTime=1745859640&wsSession=2f9b24714dec566af70aaf7a-174584524108756&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视秒播",西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=59dcdc06092157304a4a6e61b3f0440c&time=680f7bf5
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=1ca865e51edf5531713de0c2adfde2d0&wsTime=1745863208&wsSession=1ace727e72175a05395926ae-174584880945524&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视秒播",黑龙江卫视
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视秒播",东方卫视
