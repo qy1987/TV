@@ -9,8 +9,6 @@ http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b
 https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1747155628-ta20pbx32i1hak9pn4zs5juv0i47goz5-0-2a0f8a2234b21b1db3983b5134151058
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视秒播",北京卫视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1747155609&sign=b92a3edc11d221d92e3fee41a8842beb
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视秒播",海南卫视
-https://livelyws.chinamcache.com/lyws/zb03.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视秒播",河北卫视
 https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1747162819&k=57aa7c56d9e1f5f127e900277fd3d68e
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视秒播",河南卫视
