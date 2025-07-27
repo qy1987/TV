@@ -19,6 +19,8 @@ https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/i4sqwR0.m3u8
 http://stream.snrtv.com/sxbc-star-dgyRVZ.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视秒播",新疆卫视
 https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1753612203-4-4-26280e19e5005c4b45866d880d090f59&aliyun_uuid=a0f18000-2adf-45cf-aebb-4b864ada7f4c
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视秒播",东方卫视
+https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1753678813-f4d4ecc0915c4cc3bf7fcf202ef3aa02-0-8d06c1b3b39de975431ee331a3f92edb
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="北京秒播",北京卫视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1753608609&sign=211079171010fad144adc585e35a1583
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png" group-title="北京秒播",北京影视
