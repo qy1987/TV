@@ -5,43 +5,45 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视秒播",浙江卫视
 http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视秒播",浙江卫视
+https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1756795221-x74gtv8fqgqd9jg5e51qvftj30nu9cg3-0-3c611bd9a08aed31e01df6a300ecbc0c
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视秒播",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1756793408&sign=403ad3307bcf4698c2fbb811caf2e65c
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1756795208&sign=017e8eafc48e06f5f65a49747b9a39d3
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视秒播",海南卫视
 https://livelyws.chinamcache.com/lyws/zb03.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视秒播",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1756800619&k=8af704b2d64983a45e907f385496ee09
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1756802417&k=980db1c4308ad9ce99d703fbb2d34926
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视秒播",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=eebc42f2f73ef459173f5f5854cf411d&wsTime=1756807806&wsSession=37bbde24d5030162c7a5f5c2-175679340710847&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c522061dea1b25f12174462bcfb6cb5d&wsTime=1756809607&wsSession=df9e259fc4f508048049e602-175679520776376&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视秒播",吉林卫视
-https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=8875b201bae33bf956e7d4016b849349&txTime=68B6C291
+https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=6e5c7b90c24bb70ecc853ae13537b574&txTime=68B6C997
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视秒播",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=cfd83d09115f4fc08bf6d34da2025a30
+https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=024cbccc4ebe40aca78e990e947c2ad3
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="卫视秒播",山西卫视
 https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/usqfR0W.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="卫视秒播",陕西卫视
 http://alzbl.snrtv.com/live/sxws20250903.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视秒播",西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=de3c39939699ea567eddf771dd030ef5&time=68b68a3e
+https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=165e4db775c068c0738289251cd77048&time=68b69145
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视秒播",新疆卫视
-https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1756797002-8-8-2711961e4add7a46a0fb1035664063f6&aliyun_uuid=740559c5-f799-45a8-9e96-dcf356557ea7
+https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1756798803-5-5-3066fde4f8a4605533181513466d58c9&aliyun_uuid=be3fe55c-46d5-4ebc-9fb2-7a681354ae17
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视秒播",黑龙江卫视
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视秒播",广西卫视
 https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="北京秒播",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1756793408&sign=403ad3307bcf4698c2fbb811caf2e65c
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1756795208&sign=017e8eafc48e06f5f65a49747b9a39d3
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png" group-title="北京秒播",北京影视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1756793412&sign=b7043f3692d7afc0c36b1db8797f3cee
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1756795210&sign=5d970267a8bf34a7bc38190732599746
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="北京秒播",北京新闻
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1756793414&sign=69f31dfb8f0d9fa63bb43ad8453fec00
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1756795212&sign=007573ab7ceef2c55de3fe682fe96e38
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png" group-title="北京秒播",北京生活
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1756793413&sign=d24b9ec4c469fb37cbc1b564c7e5d2a0
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1756795211&sign=de96ce42fa4f416c24cadeaeac7d86a5
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京文艺.png" group-title="北京秒播",北京文艺
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1756793409&sign=78690c4e10239121818f555c8d530258
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1756795209&sign=49f4178d47bffdd704c7eb55a077059c
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png" group-title="北京秒播",北京纪实科教
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1756793409&sign=1866f9821c0d35830b1a800e60472f1e
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1756795210&sign=daf6ddea984bd50e42908ec209c10bda
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png" group-title="北京秒播",北京财经
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1756793413&sign=6776eff5bd5cf1777bc5b90a55aafc19
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1756795211&sign=5a7fece84f65b28ac9b1d8c21d78e0f1
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卡酷少儿.png" group-title="北京秒播",北京卡酷少儿
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1756793414&sign=5133e6aae3186056916829737cef7eac
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1756795212&sign=b1f801bb1de756e8a21e709867a6054f
